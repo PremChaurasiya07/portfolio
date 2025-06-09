@@ -335,13 +335,13 @@ export default function Portfolio() {
                     <Github size={24} />
                   </Link>
                   <Link
-                    href="#"
+                    href="https://www.linkedin.com/in/premchaurasiya/"
                     className="text-gray-300 hover:text-purple-400 transition-colors duration-300 transform hover:scale-110"
                   >
                     <Linkedin size={24} />
                   </Link>
                   <Link
-                    href="#"
+                    href="premchaurasiya2006@gmail.com"
                     className="text-gray-300 hover:text-purple-400 transition-colors duration-300 transform hover:scale-110"
                   >
                     <Mail size={24} />
