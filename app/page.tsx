@@ -165,7 +165,7 @@ export default function Portfolio() {
               Full Stack Developer & Automation Engineer
             </p>
             <p className="text-lg text-gray-300 mb-12 max-w-2xl mx-auto animate-fade-in-up animation-delay-500">
-              I'm a passionate Full-Stack Developer with over 5 years of experience, specializing in modern web technologies. I thrive on creating impactful digital solutions, including automation and AI products, by transforming complex challenges into simple, elegant designs.
+              I'm a passionate Full-Stack, specializing in modern web technologies. I thrive on creating impactful digital solutions, including automation and AI products, by transforming complex challenges into simple, elegant designs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in-up animation-delay-700">
               <Button
@@ -200,7 +200,7 @@ export default function Portfolio() {
             <div className="max-w-3xl mx-auto">
               <div className="animate-fade-in-up text-center">
                 <p className="text-gray-300 text-lg mb-6 leading-relaxed">
-                  I'm a passionate full-stack developer with over 5 years of experience creating digital solutions that
+                  I'm a passionate full-stack developer creating digital solutions that
                   make a difference. I specialize in modern web technologies and love turning complex problems into
                   simple, beautiful designs.
                 </p>
